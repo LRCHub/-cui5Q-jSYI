@@ -1,0 +1,45 @@
+# Lyn Lapid – i’ll be happy when
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:16.35] I'll be happy when this lonely city feels like mine
+[00:20.28] Maybe when I have a license and a car to drive
+[00:23.85] I can take a trip to nowhere on the 405
+[00:29.13] Just to feel alive
+[00:38.13] 
+[00:30.83] I'll be happy when I finally can find real friends
+[00:34.48] Who all like me as I am, and they don't all pretend
+[00:37.95] That I'm more than just a temporary means to an end
+[00:43.15] Thinking maybe then that I'll be fine
+[01:01.65] 
+[00:47.77] But what if it's all too late?
+[00:55.02] What if I'm bound to break?
+[01:01.81] 'Cause what if there's nowhere to escape?
+[01:09.41] Once the high starts to fade, fade
+[01:15.84] I start to fade, fade
+[01:19.46] I start to fade
+[01:26.96] 
+[01:23.62] I'll be happy when my smiles aren't in self-defense
+[01:27.32] When I finally belong outside convenience
+[01:30.83] And they ask me how I'm doing, and they really care for real
+[01:35.11] I fear, I fear, I fear that life's not mine
+[01:56.61] 
+[01:41.27] And it's all too late
+[01:47.92] What if I'm bound to break?
+[01:54.73] 'Cause what if there's nowhere to escape?
+[02:02.33] Once the high starts to fade, fade
+[02:08.88] I start to fade, fade
+[02:12.35] I wanna fade, fade
+[02:15.89] I start to fade, fade
+[02:19.34] I wanna fade
+[02:25.34] 
+[02:23.79] Will I be a buzzkill forever?
+[02:27.78] Be a buzzkill forever?
+[02:31.29] Be a buzzkill forever?
+[02:34.78] Be a buzzkill forever?
+[02:38.30] Be a buzzkill forever?
+[02:41.83] Be a buzzkill forever?
+[02:45.37] Be a buzzkill forever?
+[02:48.86] Be a buzzkill forever?
+```
