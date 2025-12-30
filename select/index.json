@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "i’ll be happy when",
+  "base_artist": "Lyn Lapid",
+  "createdAt": "2025-12-30T05:27:24.695726Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "i’ll be happy when",
+      "artist": "Lyn Lapid",
+      "has_synced": true,
+      "path": "select/01_i’ll_be_happy_when_Lyn_Lapid.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Be Happy When You're Dead",
+      "artist": "Banner, The",
+      "has_synced": false,
+      "path": "select/02_I'll_Be_Happy_When_You're_Dead_Banner,_The.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Be Happy When You're Dead",
+      "artist": "The Banner",
+      "has_synced": false,
+      "path": "select/03_I'll_Be_Happy_When_You're_Dead_The_Banner.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'll Be Happy When You're Fucking Dead",
+      "artist": "THE BANNER",
+      "has_synced": false,
+      "path": "select/04_I'll_Be_Happy_When_You're_Fucking_Dead_THE_BANNER.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'll Be Happy When You're F*cking Dead",
+      "artist": "The Banner",
+      "has_synced": false,
+      "path": "select/05_I'll_Be_Happy_When_You're_F_cking_Dead_The_Banner.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "i'll be happy when",
+      "artist": "Lyn Lapid",
+      "has_synced": false,
+      "path": "select/pl_01_i'll_be_happy_when_Lyn_Lapid.txt"
+    }
+  ]
+}
